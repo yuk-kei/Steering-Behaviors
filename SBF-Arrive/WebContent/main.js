@@ -57,7 +57,7 @@ function initBoids() {
 
 function resetTarget(boid) {
 
-    if (boid.position.distance(target.position) < 2) {
+    if (boid.position.distance(target.position) < 15) {
 
         target.x = game.rnd.between(10, game.width - 10);
         target.y = game.rnd.between(10, game.height - 10);
