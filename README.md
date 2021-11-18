@@ -1,2 +1,2 @@
-# Steering-Behaviors-Fundamentals
-Phaser Editor JavaScript Projects that show the following behaviors: Seek, Flee, Arrive &amp; Path Following
+# Steering Behaviors
+Phaser Editor JavaScript Projects that show the basic behaviors: Seek, Flee, Arrive and advanced behaviors: Pursuit and intercept.
